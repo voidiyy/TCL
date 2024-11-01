@@ -9,7 +9,11 @@
 
 
 **Description:**  
-TCL is a Telegram client built with the [go-tdlib](https://github.com/zelenin/go-tdlib) library in Go. This client facilitates seamless interaction with Telegram’s API, allowing users to perform various actions such as logging in, searching for users, and managing conversations.
+TCL is a Telegram client built with the:
+[go-tdlib](https://github.com/zelenin/go-tdlib) library in Go. 
+[fyne](https://fyne.io/) GUI app lib.
+
+This client facilitates seamless interaction with Telegram’s API, allowing users to perform various actions such as logging in, searching for users, and managing conversations.
 
 **Setup:**  
 To configure the client, create a `.env` file in the root directory with the following content:
